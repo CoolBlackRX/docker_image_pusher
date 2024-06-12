@@ -1,2 +1,2 @@
 eclipse-temurin:21-jre-alpine
-
+alpine
