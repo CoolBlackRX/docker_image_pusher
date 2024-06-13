@@ -1,3 +1,4 @@
 eclipse-temurin:21-jre-alpine
 alpine
 adoptopenjdk/openjdk8:jre8u275-b01-alpine
+eclipse-temurin:21-jre-alpine
