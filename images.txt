@@ -4,3 +4,4 @@ adoptopenjdk/openjdk8:jre8u275-b01-alpine
 eclipse-temurin:21.0.3_9-jdk-alpine
 sonatype/nexus3
 xetusoss/archiva
+corentinth/it-tools
