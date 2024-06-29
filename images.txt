@@ -5,4 +5,4 @@ eclipse-temurin:21.0.3_9-jdk-alpine
 sonatype/nexus3
 xetusoss/archiva
 corentinth/it-tools
-strapi
+elestio/strapi-production
