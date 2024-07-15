@@ -6,3 +6,4 @@ sonatype/nexus3
 xetusoss/archiva
 corentinth/it-tools
 elestio/strapi-production
+neosmemo/memos
