@@ -7,3 +7,4 @@ xetusoss/archiva
 corentinth/it-tools
 elestio/strapi-production
 neosmemo/memos
+portainer/portainer-ce
