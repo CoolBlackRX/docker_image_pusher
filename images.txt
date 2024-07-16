@@ -9,3 +9,4 @@ elestio/strapi-production
 neosmemo/memos
 portainer/portainer-ce
 adoptopenjdk/openjdk8:x86_64-alpine-jre8u372-b07
+xuxueli/xxl-job-admin:2.4.1
