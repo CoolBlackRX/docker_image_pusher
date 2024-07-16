@@ -8,3 +8,4 @@ corentinth/it-tools
 elestio/strapi-production
 neosmemo/memos
 portainer/portainer-ce
+adoptopenjdk/openjdk8:x86_64-alpine-jre8u372-b07
