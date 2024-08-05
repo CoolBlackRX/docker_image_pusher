@@ -13,3 +13,4 @@ xuxueli/xxl-job-admin:2.4.1
 eclipse-temurin:8-jre
 nginx:latest
 henryclw/jsonhero-web:latest
+xhofe/alist
