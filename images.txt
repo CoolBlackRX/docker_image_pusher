@@ -14,3 +14,4 @@ eclipse-temurin:8-jre
 nginx:latest
 henryclw/jsonhero-web:latest
 xhofe/alist
+nginx
