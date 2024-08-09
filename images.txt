@@ -15,3 +15,4 @@ nginx:latest
 henryclw/jsonhero-web:latest
 xhofe/alist
 nginx
+n8nio/n8n
