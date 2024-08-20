@@ -11,8 +11,9 @@ portainer/portainer-ce
 adoptopenjdk/openjdk8:x86_64-alpine-jre8u372-b07
 xuxueli/xxl-job-admin:2.4.1
 eclipse-temurin:8-jre
-nginx:latest
+nginx
 henryclw/jsonhero-web:latest
 xhofe/alist
 nginx
 n8nio/n8n
+metabase/metabase
