@@ -1,3 +1,4 @@
+enmotech/opengauss-lite
 enmotech/opengauss
 eclipse-temurin:21-jre-alpine
 alpine
