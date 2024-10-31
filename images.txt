@@ -21,3 +21,4 @@ n8nio/n8n
 metabase/metabase
 aquasec/trivy
 uozi/nginx-ui
+linuxserver/qbittorrent
