@@ -22,3 +22,4 @@ metabase/metabase
 aquasec/trivy
 uozi/nginx-ui
 linuxserver/qbittorrent
+b3log/siyuan
