@@ -32,3 +32,4 @@ nacos/nacos-server
 rabbitmq:4.0.3-management
 bitnami/minio
 ydkn/cups
+photoprism/photoprism
