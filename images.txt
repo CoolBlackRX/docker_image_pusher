@@ -1,3 +1,4 @@
+clue/json-server
 naskio/strapi
 photoprism/photoprism
 enmotech/opengauss-lite
