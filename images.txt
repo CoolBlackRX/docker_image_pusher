@@ -1,3 +1,4 @@
+naskio/strapi
 photoprism/photoprism
 enmotech/opengauss-lite
 enmotech/opengauss
