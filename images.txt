@@ -1,3 +1,4 @@
+bitnami/minio
 clue/json-server
 naskio/strapi
 photoprism/photoprism
@@ -33,5 +34,4 @@ minio/minio
 nacos/nacos-server:1.3.1
 nacos/nacos-server
 rabbitmq:4.0.3-management
-bitnami/minio
 ydkn/cups
