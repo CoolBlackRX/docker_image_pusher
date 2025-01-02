@@ -1,3 +1,4 @@
+1panel/maxkb
 bitnami/minio
 clue/json-server
 naskio/strapi
