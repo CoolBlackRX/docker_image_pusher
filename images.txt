@@ -1,3 +1,4 @@
+liaosnet/gbase8s
 sonarqube
 1panel/maxkb
 bitnami/minio
