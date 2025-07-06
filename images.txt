@@ -1,3 +1,4 @@
+bytebase/bytebase:3.8.0
 liaosnet/gbase8s
 sonarqube
 1panel/maxkb
