@@ -42,4 +42,6 @@ jobs:
           docker tag $image $new_image
           echo "docker push $new_image"
           docker push $new_image
+          docker rmi $new_image
+          docker rmi $image
         done < images.txt
