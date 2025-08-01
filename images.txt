@@ -1,3 +1,4 @@
+xuxueli/xxl-job-admin:3.1.1
 paketobuildpacks/spring-boot
 paketobuildpacks/maven
 ghcr.io/graalvm/native-image-community:24-muslib
