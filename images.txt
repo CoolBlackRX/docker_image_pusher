@@ -1,3 +1,4 @@
+vicanso/pingap:latest
 xuxueli/xxl-job-admin:3.1.1
 paketobuildpacks/spring-boot
 paketobuildpacks/maven
