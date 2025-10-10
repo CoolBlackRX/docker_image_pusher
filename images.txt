@@ -1,3 +1,4 @@
+vicanso/pingap:full
 vicanso/pingap:latest
 xuxueli/xxl-job-admin:3.1.1
 paketobuildpacks/spring-boot
@@ -10,7 +11,6 @@ bytebase/bytebase:3.8.0
 liaosnet/gbase8s
 sonarqube
 1panel/maxkb
-bitnami/minio
 clue/json-server
 naskio/strapi
 photoprism/photoprism
@@ -40,6 +40,7 @@ uozi/nginx-ui
 linuxserver/qbittorrent
 b3log/siyuan
 gitea/gitea
+minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 minio/minio:RELEASE.2021-06-17T00-10-46Z.hotfix.49f6035b1
 minio/minio:RELEASE.2024-11-07T00-52-20Z.fips
 minio/minio
