@@ -1,3 +1,4 @@
+minio/minio:RELEASE.2025-09-07T16-13-09Z
 redis:8.4.2
 polardbx/polardb-x:v2.4.2_5.4.19
 vicanso/pingap:full
@@ -25,7 +26,6 @@ sonatype/nexus3
 xetusoss/archiva
 corentinth/it-tools
 elestio/strapi-production
-neosmemo/memos
 portainer/portainer-ce
 adoptopenjdk/openjdk8:x86_64-alpine-jre8u372-b07
 xuxueli/xxl-job-admin:2.4.1
