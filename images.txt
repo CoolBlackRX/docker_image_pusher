@@ -1,3 +1,4 @@
+polardbx/polardb-x:v2.4.2_5.4.19
 vicanso/pingap:full
 vicanso/pingap:latest
 xuxueli/xxl-job-admin:3.1.1
