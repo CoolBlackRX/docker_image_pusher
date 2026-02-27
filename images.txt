@@ -1,3 +1,4 @@
+redis:8.4.2
 polardbx/polardb-x:v2.4.2_5.4.19
 vicanso/pingap:full
 vicanso/pingap:latest
@@ -9,7 +10,6 @@ ghcr.io/graalvm/native-image-community:24
 ghcr.io/graalvm/jdk-community:24
 postgres:14.18
 bytebase/bytebase:3.8.0
-liaosnet/gbase8s
 sonarqube
 1panel/maxkb
 clue/json-server
