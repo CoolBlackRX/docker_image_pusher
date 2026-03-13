@@ -1,3 +1,4 @@
+mysql:5.5
 mcr.microsoft.com/dotnet/core/aspnet:3.1
 oceanbase/oceanbase-ce
 oceanbase/oceanbase-ce:4.3.5-lts
