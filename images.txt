@@ -1,3 +1,4 @@
+tdengine/tsdb:3.4.2.8
 kong:3.9.3
 sigoden/dufs:v0.46.0
 tomcat2111/papercut-mf:23.0.1.67834
